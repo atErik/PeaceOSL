@@ -1,47 +1,57 @@
 --- BEGIN the Peaceful Open Source License ---
 
-Peaceful Open Source License: "PeaceOSL": A license for software,
- service,etc to support peaceful usage of licensed items.  
-Copyright (C) Linkesh Diwan. (Link-at-WiseEarthTechnology-dot-com)  
-Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)
+    PEACEFUL OPEN SOURCE LICENSE/CONTRACT. PeaceOSL.  
+    License/Contract version(y-m-d) 2020-11-07.  
+    License/Contract authored by: Linkesh Diwan. 2013.  
+    License/Contract authored by: Emde T. Ashfolk. 2020.  
 
-License version (yyyy-mm-dd): 2020-11-01.
+Peaceful Open Source License/Contract: PeaceOSL: A license for  
+peaceful usage of software,hardware,information,data,service,project,etc.  
+Copyright (C) 2013 Linkesh Diwan. (Link-at-WiseEarthTechnology-dot-com)  
+Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
+License version(y-m-d) : 2020-11-07.
 
-Redistribution and use of this "SDSP", where SDSP is pointing to this
-software/data/service/project, accompanying this license/contract in
-source and binary forms, with or without modification, are permitted
-provided that the following ten conditions are met:
+Redistribution and use of this "SDSP" or "SHIDSP", where SDSP/SHIDSP
+is pointing to the above software/hardware/information/data/service/
+project,etc accompanying this PeaceOSL license/contract in source
+and binary (aka: object-code) forms, with or without modification,
+are permitted provided that the following ten conditions are met:
 
-1. Redistributions of this SDSP (software, source code, data,
-   service from this project) must retain the above copyright notice,
-   this list of conditions and the following disclaimer.
+1. Redistributions of this SDSP/SHIDSP (software, source code,
+   data, hardware, information, service from this project) must
+   retain the above copyright notice, this list of conditions,
+   and the following disclaimer.
 2. Redistributions in binary form must reproduce the above copyright
    notice, this list of conditions and the following disclaimer in
    the documentation and/or other materials provided with the
-   distribution from this SDSP (software/data/service/project).
-3. Modifications to this SDSP (software, source code, data, service
-   from this project) must retain above copyright notice, this list
-   of conditions, and the following disclaimer, and may not include
-   further conditions or licensing which go against the spirit of
-   this license.
+   distribution from this SDSP/SHIDSP (software/hardware/info/data/
+   service/project).
+3. Modifications to this SDSP/SHIDSP (software, source code,
+   data, hardware, information, service from this project) must
+   retain the above copyright notice, this list of conditions,
+   and the following disclaimer, and may not include further
+   conditions or licensing which go against the spirit of this
+   license.
 4. Here we are using "HR" = Human-Rights. "CH" = Copyright-Holder(s).
-   This SDSP (software/data/service/project) must not be used to
-   violate or abuse (any) HR, either directly or indirectly in any
-   form.  This SDSP must not be used to violate or abuse HR in any
-   form in any physical location, written articles, media, broadcast,
-   video, etc or in any form inside cyberspace/Internet.  This SDSP
-   license/contract is declaring/stating in early to you, user of
-   this SDSP, that, this SDSP must not be used to violate or abuse
-   any human-rights even for "National Security" excuse/reason : As
-   nothing (not even "National Security" or court order/decision or
-   voted decision) can be above "Human-Rights".  This SDSP license/
-   contract is further declaring and stating in early to you : any
-   result/decision from any voting, or any order or decision from
-   any court, to override usage of this SDSP or SDSP content to 
-   violate/abuse HR, is hereby declared null-and-void and illegal.
-5. This SDSP(software/data/service/project) must not be used to cause
-   deliberate harm to any human individual,group,community or country
-   either directly or indirectly, in any form.
+   This SDSP/SHIDSP (software/hardware/info/data/service/project)
+   must not be used to violate or abuse (any) HR, either directly
+   or indirectly in any form.  This SDSP must not be used to abuse
+   or violate HR in any form in any physical location, written
+   articles, media, broadcast, video, etc or in any form inside
+   cyberspace/Internet.  This SDSP license/contract is declaring/
+   stating in early to you, user of this SDSP, that, this SDSP/SHIDSP
+   must not be used to violate or abuse any human-rights even for
+   "National Security" excuse/reason : As nothing (not even
+   "National Security" or court order/decision or voted decision)
+   can be above "Human-Rights".  This SDSP license/contract is further
+   declaring and stating in early to you : any result/decision from
+   any voting, or any order or decision from any court, to override
+   usage of this SDSP or SDSP content to violate/abuse HR, is hereby
+   declared null-and-void and illegal.
+5. This SDSP/SHIDSP(software/hardware/info/data/service/project)
+   must not be used to cause deliberate harm to any human individual,
+   group,community or country either directly or indirectly, in any
+   form.
 6. This SDSP(software/data/service/project) must not be used for
    stealing any data or physical items, and this SDSP must not be
    used to violate or abuse any privacy rights, of any human group,
@@ -148,23 +158,28 @@ SUCH DAMAGE.
 
 
 
-
-
-Peaceful Open Source License ia also known as "PeaceOSL".
+Peaceful Open Source License ia also known as "PeaceOSL".  
 
 
 
 Author: Linkesh Diwan. Link -at- WiseEarthTechnology -dot- com.  
-Author: Erik T. Ashfolk. atErik -at- Ashfolk -dot- com.
+Author: Erik T. Ashfolk. atErik -at- Ashfolk -dot- com.  
+
 
 Copyright (c) 2013, Wise Earth Publishers.  
-Copyright (c) 2020, Erik T. Ashfolk.
+Copyright (c) 2020, Erik T. Ashfolk.  
+
 
 Permission is granted to modify, copy, and redistribute this  
-license in accordance with the Creative Commons Attribution License  
-(CC-BY), without breaking the original spirit of this license.  
-CC license is here: http://creativecommons.org/licenses/by/3.0/
+PeaceOSL 2020 license, in accordance with above Peaceful Open  
+Source License 2020, without breaking the original spirit of  
+this license.  
 
+
+Permission is granted to modify, copy, and redistribute PeaceOSL 2013  
+license, in accordance with the Creative Commons Attribution License  
+(CC-BY), without breaking the original spirit of this license.  
+CC license is here: http://creativecommons.org/licenses/by/3.0/  
 
 
 
@@ -184,23 +199,27 @@ Notes:
 
 
 
-The 2013 "Peaceful Open Source License" ("PeaceOSL") authored  
-by Linkesh Diwan of WiseEarthPublishers.  
-Above was MODIFIED/CHANGED by Erik T. Ashfolk.  
-and this new modified Lic version # is v2020-10-30.  
-https://github.com/atErik/PeaceOSL/PeaceOSL.txt
+Author Erik T. Ashfolk (atErik) has modified/changed  
+PeaceOSL 2013 license, and created PeaceOSL 2020 license,  
+since October 2020, and new version number is shown at top side.  
+Also here:  
+https://github.com/atErik/PeaceOSL/PeaceOSL.txt  
+or  
+https://github.com/atErik/PeaceOSL/blob/main/PeaceOSL.txt  
 
 
 
+The "Peaceful Open Source License" ("PeaceOSL") 2013 is published  
+by Wise Earth Publishers:  
+         www.WiseEarthPublishers.com  
+and/or:  www.WiseEarthTechnologies.com  
 
-The 2013 "Peaceful Open Source License" ("PeaceOSL") is published by  
-Wise Earth Publishers: www.WiseEarthPublishers.com  
-and/or www.WiseEarthTechnologies.com
-
-The 2013 "PeaceOSL" License is available from here:  
+The "PeaceOSL" (2013) License is available from here:  
 http://WiseEarthPublishers.com/products/peaceful-open-source-license  
 or, from here:  
-https://github.com/WiseEarthTechnology/CrisisCommunicator/blob/master/PeaceOSL.txt
+https://github.com/WiseEarthTechnology/CrisisCommunicator/blob/master/PeaceOSL.txt  
+or, from here:  
+https://github.com/WiseEarthTechnology/CrisisCommunicator/PeaceOSL.txt  
 
 The logo symbolizes that Peace is a function, a journey, a path.  
 ASCII-artified at http://picascii.com/  
